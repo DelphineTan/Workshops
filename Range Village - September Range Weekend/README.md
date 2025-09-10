@@ -1,18 +1,30 @@
 # Range Village – September Range Weekend
 
-## Overview  
-Hands-on workshop focused on Active Directory security, incident response, and threat hunting scenarios.  
+**Date:** September 6, 2025  
+**Category:** Active Directory Attacks  
+**Platform:** Range Village  
+**Status:** 1 Flag Captured  
 
-## My Experience  
-- Explored Active Directory attack paths and detection techniques  
-- Practiced incident response workflows in a simulated enterprise environment  
-- Gained exposure to tools used for threat hunting and log analysis  
+## 📝 Overview  
+This workshop simulated a real-world **Active Directory (AD)** environment with multiple domains and machines. The lab combined **hands-on exercises with CTF-style challenges**, focusing on AD attack paths, incident response, and threat hunting.  
 
-## Challenges  
-I wasn’t able to capture all the flags during the event.  
-For the missing parts, I reviewed [this external writeup](https://blog.async.sg/rv-sept) to understand the full solutions.  
+## 🛠️ Tools & Techniques  
+**Tools Used**  
+- NetExec  
+- John the Ripper (JtR)  
+- BloodHound  
 
-## Key Takeaways  
-- Better understanding of Active Directory attack surfaces  
-- Importance of detection in enterprise environments  
-- Areas to improve: privilege escalation and lateral movement detection  
+**Techniques Practiced**  
+- Kerberoasting  
+- AD enumeration & privilege escalation attempts  
+
+## 🎯 Key Takeaways  
+- First exposure to **NetExec** and **BloodHound** for AD analysis  
+- Practiced **Kerberoasting** and password cracking workflows  
+- Learned the importance of privilege escalation chains in AD  
+- Identified gaps in AD attack workflows to improve in future labs  
+
+## 📂 Notes  
+I successfully captured **1 flag** during the event. For the remaining challenges, I reviewed [this detailed writeup](https://blog.async.sg/rv-sept) published by Async to better understand the complete solutions.  
+
+---
