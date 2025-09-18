@@ -20,4 +20,12 @@ This was an introductory workshop on **Bug Bounty Basics**, delivered by Anne-La
 ## Acknowledgments  
 Grateful to the **N0H4TS Community** for organizing and to **YesWeHack** for sharing industry expertise.  
 
+## Relevant Links
+- https://www.yeswehack.com/
+- https://kalilinuxtutorials.com/pwnfox/
+- https://dojo-yeswehack.com/learn
+- https://caido.io/
+- https://github.com/projectdiscovery/interactsh
+- https://github.com/EdOverflow/can-i-take-over-xyz
+
 ---
