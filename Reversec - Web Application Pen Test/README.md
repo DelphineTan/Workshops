@@ -48,7 +48,19 @@ Key activities included:
 ---
 
 ## 📸 Hands-On Screenshots (to be added)
-Screenshots from the live Burp Suite labs will be added here to document the exploitation process.  
+Detailed write-ups with step-by-step screenshots for each lab are available here:
+
+- [Lab 1: User ID controlled by request parameter](./labs/lab1-user-id.md)
+- [Lab 2: User role controlled by request parameter](./labs/lab2-user-role.md)
+- [Lab 3: Insecure direct object references (IDOR)](./labs/lab3-idor.md)
+- [Lab 4: Username enumeration via different responses](./labs/lab4-username-enum.md)
+- [Lab 5: High-level logic vulnerability](./labs/lab5-logic.md)
+- [Lab 6: Excessive trust in client-side controls](./labs/lab6-client-side.md)
+- [Lab 7: Insufficient workflow validation](./labs/lab7-workflow.md)
+- [Lab 8: 2FA simple bypass](./labs/lab8-2fa.md)
+- [Lab 9: Exploiting LLM APIs with excessive agency](./labs/lab9-llm-agency.md)
+- [Lab 10: Indirect prompt injection](./labs/lab10-llm-injection.md)
+
 
 ---
 
